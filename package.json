@@ -1,0 +1,23 @@
+{
+  "name": "misc-search",
+  "version": "1.0.0",
+  "description": "For better search.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server src -s",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dajbd/misc-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dajbd/misc-search/issues"
+  },
+  "homepage": "https://github.com/dajbd/misc-search#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
