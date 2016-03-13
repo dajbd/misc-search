@@ -4,7 +4,7 @@
   "description": "For better search.",
   "main": "index.js",
   "scripts": {
-    "start": "http-server src -s",
+    "start": "http-server src -s -p 3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
